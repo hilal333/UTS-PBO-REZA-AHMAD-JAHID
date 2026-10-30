@@ -1,0 +1,10 @@
+{
+  "sensor_logs": [
+    {"emp_id": "EMP-001", "timestamp": "2026-10-30 08:00:15", "gate": "GATE-A", "status": "IN"},
+    {"emp_id": "EMP-002", "timestamp": "2026-10-30 08:05:22", "gate": "GATE-A", "status": "IN"},
+    {"emp_id": "EMP-003", "timestamp": "2026-10-30 07:55:10", "gate": "GATE-B", "status": "IN"},
+    {"emp_id": "EMP-004", "timestamp": "2026-10-30 08:12:45", "gate": "GATE-A", "status": "IN"},
+    {"emp_id": "EMP-001", "timestamp": "2026-10-30 17:05:15", "gate": "GATE-A", "status": "OUT"},
+    {"emp_id": "EMP-002", "timestamp": "2026-10-30 17:10:22", "gate": "GATE-A", "status": "OUT"}
+  ]
+}
